@@ -1,1 +1,1 @@
-# This repository is for all the neural network hands-on.
+# This repository is for the neural network hands-on.
