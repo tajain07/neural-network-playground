@@ -23,7 +23,7 @@ Implemented AND gate and OR gate using perceptron. In this notebook, during trai
 #### 4. [Implemented Autoencoder using Multi-layerd Perceptron](Autoencoder_using_MLP.ipynb)
 #### 5. [Edge detection using filters](Edge_Detection.ipynb)
 #### 6. [High pass filter](High_pass_filter.ipynb)
-
+<br>
 
 #### Andrew NG deep learning notes. Awesomely done by [Tess](https://twitter.com/tessferrandez?lang=en)
-https://github.com/tajain07/neural-network-playground/blob/master/deeplearning_ai_andrew_ng.pdf
+[andrew ng deep-learning notes](deeplearning_ai_andrew_ng.pdf)
